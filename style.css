@@ -1,0 +1,29 @@
+/* body{
+    display: flex;
+} */
+.container{
+    display: flex;
+}
+.basics{
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+}
+.story{
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+}
+.banner{
+    font-weight: bolder;
+    font-size: 3rem;
+    text-align: center;
+    display: block;
+    border: 3px;
+    border-style: solid;
+}
